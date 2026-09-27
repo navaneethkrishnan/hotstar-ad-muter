@@ -1,6 +1,14 @@
 # Cricket Ad Muter for Hotstar
 
-An unofficial Chrome/Chromium extension that mutes advertisement audio during Hotstar live cricket streams and restores audio after the ad slot.
+An unofficial open-source Chrome/Chromium extension that mutes advertisement audio during Hotstar live cricket streams and restores audio after the ad slot.
+
+## Open source
+
+This project is released under the **MIT License**. You are free to use, copy, modify, publish, distribute, sublicense, and sell copies of the software, subject to the MIT License terms.
+
+Please retain the original copyright and license notice when redistributing the software.
+
+**Original author:** Navaneeth Krishnan S.
 
 ## Features
 
