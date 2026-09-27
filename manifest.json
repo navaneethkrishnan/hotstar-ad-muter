@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Cricket Ad Muter for Hotstar",
+  "version": "1.0.0",
+  "description": "Unofficial browser extension that mutes Hotstar cricket ad audio and restores sound after the ad.",
+  "permissions": ["tabs", "webRequest", "storage", "alarms"],
+  "host_permissions": ["*://*.hotstar.com/*", "*://*.jiohotstar.com/*", "*://bifrost-api.hotstar.com/*"],
+  "background": {"service_worker": "background.js"},
+  "action": {"default_title": "Cricket Ad Muter", "default_popup": "popup.html"}
+}
